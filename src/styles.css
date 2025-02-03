@@ -13,9 +13,7 @@
     background-position: 400%;   
 }
 .buton:hover{
-  
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
 }
 
 .mainh{
@@ -40,7 +38,6 @@
   background-image: url(../images/img2.jpg);
   background-size: cover;
   background-attachment: fixed;
-
 }
 
 .content2{
@@ -62,7 +59,6 @@
 }
 #but:hover{
 box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
 }
 
 #heading{
@@ -74,11 +70,9 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 #heading:hover{
 box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
 }
 .para1:hover{
 box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
 }
 .para1{
   width: fit-content;
@@ -89,7 +83,6 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 body {
   text-align: center;
   background: linear-gradient(90deg,rgba(0, 0, 0, 0.911), #22c1c3,#fdbb2d);
-
 }
 
 footer {
@@ -110,7 +103,6 @@ footer {
   display: vlock;
   width: 50%;
   margin: auto;
-
 }
 
 .btn {
